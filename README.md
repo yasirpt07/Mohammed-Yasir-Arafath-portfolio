@@ -1,95 +1,67 @@
-# Mohammed Yasir Arafath – Data Analyst Portfolio
+# 👋 Hi, I'm Mohammed Yasir Arafath
 
-Welcome to my personal portfolio website.
-This portfolio showcases my **Data Analytics, Machine Learning, and Visualization projects** along with my technical skills and experience.
-
-## 🌐 Live Portfolio
-
-🔗 https://yasirpt07.github.io/Mohammed-Yasir-Arafath-portfolio/
-
-## 👨‍💻 About Me
-
-I am a passionate **Data Analyst and Machine Learning enthusiast** skilled in transforming data into meaningful insights.
-
-My expertise includes:
-
-* Python
-* SQL
-* Machine Learning
-* Power BI
-* Excel
-* Data Visualization
-* Data Cleaning & Analysis
-
-I enjoy solving real-world problems using **data-driven approaches** and building projects that deliver impactful insights.
+💻 **Data Analyst | Machine Learning Enthusiast**
+📊 Passionate about transforming data into meaningful insights.
 
 ---
 
-## 🛠 Technologies Used
+## 🚀 About Me
 
-* **HTML5**
-* **CSS3**
-* **JavaScript**
-* **Boxicons**
-* **ScrollReveal Animation**
-* **GitHub Pages (Hosting)**
-
----
-
-## 📂 Portfolio Sections
-
-The website includes the following sections:
-
-* **Home** – Introduction and professional summary
-* **About** – Background and career objective
-* **Skills** – Technical skillset and tools
-* **Projects** – Featured data analytics and machine learning projects
-* **Contact** – Contact form for professional communication
+* 🎓 BCA Graduate
+* 📊 Data Analyst & Data Science Enthusiast
+* 🧠 Skilled in Data Analysis, Machine Learning & Visualization
+* 🌱 Currently learning **Advanced Data Science & AI**
+* 🎯 Goal: Build impactful data-driven solutions
 
 ---
 
-## 📊 Featured Projects
+## 🧠 Skills
 
-### SaaS Customer Intelligence Platform
+### Programming
 
-Tools: Python, SQL, Machine Learning, Excel
-A platform designed to analyze SaaS customer data and generate business insights.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### Bank Customer Churn Prediction
+### Data Analytics
 
-Tools: Python, Machine Learning
-A predictive model to identify customers likely to leave a bank.
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 
-### Customer Segmentation
+### Machine Learning
 
-Tools: Python, K-Means Clustering
-Segmentation of customers based on behavioral and demographic data.
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+
+### Web Development
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ---
 
-## 📸 Portfolio Preview
+## 🌐 Portfolio
 
-![Portfolio Preview](preview.png)
+🔗 **Portfolio Website**
+
+https://yasirpt07.github.io/Mohammed-Yasir-Arafath-portfolio/
 
 ---
 
-## 📬 Contact
+## 📊 GitHub Stats
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirpt07\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirpt07\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yasirpt07\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
 💼 LinkedIn: https://linkedin.com
-💻 GitHub: https://github.com/yasirpt07
-
----
-
-## 🚀 Deployment
-
-This portfolio is hosted using **GitHub Pages**.
-
-To run locally:
-
-1. Clone the repository
-2. Open `index.html` in your browser
-
----
-
-⭐ If you like this portfolio, feel free to star the repository.
+📧 Email: your-
