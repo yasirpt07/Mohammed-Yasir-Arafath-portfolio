@@ -94,10 +94,11 @@ Segments customers based on behavior and demographics.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yasirpt07&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirpt07&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirpt07\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirpt07\&layout=compact\&theme=tokyonight)
+
+
 
 ---
 
