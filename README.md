@@ -90,15 +90,6 @@ Segments customers based on behavior and demographics.
 [💼 LinkedIn](https://www.linkedin.com/in/mohammed-yasir-arafath-pt/)
 [💻 GitHub](https://github.com/yasirpt07)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirpt07\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirpt07\&layout=compact\&theme=tokyonight)
-
-
 
 ---
 
