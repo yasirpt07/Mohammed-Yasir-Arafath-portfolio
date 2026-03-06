@@ -86,9 +86,9 @@ Segments customers based on behavior and demographics.
 
 ## 📬 Contact
 
-![📧 Email:](yasirpt77@gmail.com)
-💼 LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/mohammed-yasir-arafath-pt/)
-💻 GitHub: https://github.com/yasirpt07
+[📧 Email](yasirpt77@gmail.com)
+[💼 LinkedIn](https://www.linkedin.com/in/mohammed-yasir-arafath-pt/)
+[💻 GitHub](https://github.com/yasirpt07)
 
 ---
 
