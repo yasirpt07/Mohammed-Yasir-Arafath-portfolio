@@ -94,7 +94,9 @@ Segments customers based on behavior and demographics.
 
 ## 📊 GitHub Stats
 
-![Yasir GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirpt07\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirpt07\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirpt07\&layout=compact\&theme=tokyonight)
 
 ---
 
