@@ -86,17 +86,27 @@ push:{particles_nb:4}
 },
 retina_detect:true
 });
-const themeToggle = document.getElementById('theme-toggle')
-const icon = themeToggle.querySelector('i')
 
-themeToggle.addEventListener('click', () => {
+/* ===== DARK MODE ===== */
 
+const themeButton = document.getElementById('theme-button')
+
+if(themeButton){
+themeButton.addEventListener('click', () => {
 document.body.classList.toggle('dark-theme')
-
-if(document.body.classList.contains('dark-theme')){
-icon.classList.replace('bx-moon','bx-sun')
-}else{
-icon.classList.replace('bx-sun','bx-moon')
+themeButton.classList.toggle('bx-sun')
+})
 }
 
-})
+/* CLOSE MENU WHEN CLICKING OUTSIDE */
+
+document.addEventListener("click", function(event){
+
+const navMenu = document.getElementById("nav-menu");
+const navToggle = document.getElementById("nav-toggle");
+
+if(!navMenu.contains(event.target) && !navToggle.contains(event.target)){
+navMenu.classList.remove("show");
+}
+
+});
