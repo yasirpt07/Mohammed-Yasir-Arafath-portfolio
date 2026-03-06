@@ -100,6 +100,13 @@ Segments customers based on behavior and demographics.
 
 ---
 
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yasirpt07\&theme=tokyonight)
+
+---
+
 ## ⭐ Support
 
 If you like this portfolio, please consider **starring the repository**.
